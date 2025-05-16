@@ -1,0 +1,46 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f7f9fc;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    direction: ltr;
+}
+
+.container {
+    max-width: 700px;
+    background: #fff;
+    margin: 30px auto;
+    padding: 25px 40px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #007acc;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
+
+.contact-info {
+    background: #e6f0ff;
+    padding: 15px 20px;
+    border-radius: 6px;
+}
+
+.contact-info p {
+    margin: 8px 0;
+    font-weight: 600;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #888;
+}
